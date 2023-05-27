@@ -1,4 +1,4 @@
 # Catalogo_de_videojuegos
-Este es mi proyecto para programación orientada a objetos y para el crearé un catálogo de videojuegos.
-He decidido crear un catálogo de videojuegos ya que creo que es interesante la forma en la que puede desarrollarse un catálogo de este tema.
+En este proyecto desarrollaré un catálogo de videojuegos donde se el usuario pueda añadir y guardar objetos (videojuegos) con información de valor como reseñas, notas técnicas, datos generales, etc.
 Debido a que los videojuegos cuentan con varias caracteristicas o criterios en los que se pueden evaluar como jugabilidad, dificultad, calidad de los gráficos, etc; considero que un menú que te ayude a organizarlo es una buena idea.
+Basicamente la idea es crear un panel ordenado donde el usuario pueda visualizar la información de cualquier objeto(videojuego) de forma cómoda y si el usuario gusta por secciones.

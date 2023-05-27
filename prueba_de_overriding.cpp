@@ -22,4 +22,6 @@ int main(){
 
     DerivedClass obj2;
     obj2.disp();
+
+    cout << "Hola, esta es una prueba" << endl;
 }
